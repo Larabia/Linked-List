@@ -89,6 +89,13 @@ A LinkedList (singly-linked list) class in Java has the following attributes:
 -- **Signature:** `public` `String` `.addToTail()`.    
 -- **Arguments:** takes no arguments.    
 -- **Logic:** it removes and returns the head of the list’s data, and sets the head’s next node as the new head.  
+
+### .printList()
+-- **Function:** printing the **list** in a clear and readable way.  
+-- **Signature:** `public` `String` `.printList()`.    
+-- **Arguments:** takes no arguments.    
+-- **Logic:** it iterates through the list and adds the data from each element to a string, which it prints and returns at the end of the method.   
+
  
 
 
