@@ -12,7 +12,7 @@ You can use this project as a cheatsheet or a fast course on Linear Data Structu
 
 🛠️ This project was created with **Java8** and **Eclipse**(IDE).
 
-So you'll need a **basic knolage of Java**, an **IDE** and **Java 8 installed** and you are ready to go!
+So you'll need a **basic knowledge of Java**, an **IDE** and **Java 8 installed** and you are ready to go!
 
 [To download and install Eclipse on Windows 10](https://www.youtube.com/watch?v=N-wXTRpR03U)
 
